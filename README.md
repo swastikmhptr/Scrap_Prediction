@@ -1,5 +1,6 @@
 # Scrap_Prediction
 This repository contains the trial programs for scrap prediction using the sample dataset.
+Details about the codes are commented on most of the places to help in better understanding it.
 
 There are two codes:-
 1) The "Scrap_Prediction_Sklearn.ipynb" is written using the Sklearn and tensorflow frameworks, and various models are tried to get best results.
